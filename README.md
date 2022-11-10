@@ -12,10 +12,10 @@ Executar o docker build para geração da imagem, e então alterar na pasta k8s/
 ### Observação do inicio do cluster
 Executar kubectl apply -f k8s/
 
-# Project temperature converter
+# Project weight converter
 
 ### About the project
-The project temperature weight is a project developed in C# with .NET CORE 5.0. The project goal is to be a example to environment creation with containers using .NET.
+The project weight converter is a project developed in C# with .NET CORE 5.0. The project goal is to be a example to environment creation with containers using .NET.
 
 ### Project observation
 The application runs using PORT 80
